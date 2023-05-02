@@ -2,4 +2,4 @@
 * text=auto
 
 .Makefile linguist-vendored=false
-./lib  linguist-vendored
+./lib/*  linguist-vendored
