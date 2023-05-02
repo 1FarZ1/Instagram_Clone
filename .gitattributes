@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-.makefile linguist-vendored = false
-./lib/*   linguist-vendored = true
+.makefile linguist-vendored=false
+./lib/*   linguist-vendored=true
