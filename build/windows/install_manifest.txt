@@ -1,9 +1,0 @@
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/icudtl.dat
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/flutter_windows.dll
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/flutter_assets/assets/ic_instagram.svg
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
-C:/Users/fares/Desktop/revision_flutter/insta/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
